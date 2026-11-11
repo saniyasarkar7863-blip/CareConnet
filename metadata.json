@@ -1,0 +1,6 @@
+{
+  "name": "CareConnect Healthcare Platform",
+  "description": "Premium digital healthcare management platform connecting patients, doctors, and clinics with appointments, digital prescriptions, and health records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
