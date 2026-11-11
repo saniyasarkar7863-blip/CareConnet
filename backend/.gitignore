@@ -1,0 +1,24 @@
+# Maven build output
+target/
+
+# IntelliJ IDEA / Eclipse project files
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+
+# Environment variables — NEVER commit real .env files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Spring Boot DevTools restart trigger
+.mvn/
